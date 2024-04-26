@@ -1,6 +1,4 @@
 # Práctica 5
-Instalar flask-cors
+Usuario:
 
-pip install -U flask-cors
-
-
+INSERT INTO usuario (nombre, correo, telefono, contraseña, esVendedor) VALUES ("Juan", "juan@ciencias.unam.mx", 5511200155, "contraseña", false);
