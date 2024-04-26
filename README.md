@@ -8,3 +8,7 @@ Repositorio oficial de la materia de Ingenieria de Software de la Facultad de Ci
 - Fernando Fong
 - Erick Martínez Piza
 - Adriana Hernandez Gasca
+
+
+Usuario:
+INSERT INTO usuario (nombre, correo, telefono, contraseña, esVendedor) VALUES ("Juan", "juan@ciencias.unam.mx", 5511200155, "contraseña", false);
